@@ -1,0 +1,17 @@
+body {
+  color: white;
+  background-color: gray;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  border: 5px solid hsl(207, 100%, 50%);
+}
+
+h1 {
+  color: aquamarine;
+}
+
